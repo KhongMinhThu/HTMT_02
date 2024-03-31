@@ -12,7 +12,6 @@ namespace HTMT_02
             Console.WriteLine("2. Số nguyên N của dãy nhị phân A.");
             Console.WriteLine("3. Thoát");
             Console.WriteLine();
-
         }
         public static void Main(string[] args)
         {
@@ -44,7 +43,6 @@ namespace HTMT_02
                     case 3:
                         Console.WriteLine("Thoát");
                         return;
-
                 } 
             } while (choice != 3);
         }
