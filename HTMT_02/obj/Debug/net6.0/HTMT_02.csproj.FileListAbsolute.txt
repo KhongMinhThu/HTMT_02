@@ -1,0 +1,15 @@
+/Users/thukhong/Projects/HTMT_02/HTMT_02/bin/Debug/net6.0/HTMT_02
+/Users/thukhong/Projects/HTMT_02/HTMT_02/bin/Debug/net6.0/HTMT_02.deps.json
+/Users/thukhong/Projects/HTMT_02/HTMT_02/bin/Debug/net6.0/HTMT_02.runtimeconfig.json
+/Users/thukhong/Projects/HTMT_02/HTMT_02/bin/Debug/net6.0/HTMT_02.dll
+/Users/thukhong/Projects/HTMT_02/HTMT_02/bin/Debug/net6.0/HTMT_02.pdb
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.csproj.AssemblyReference.cache
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.AssemblyInfoInputs.cache
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.AssemblyInfo.cs
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.csproj.CoreCompileInputs.cache
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.dll
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/refint/HTMT_02.dll
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.pdb
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/HTMT_02.genruntimeconfig.cache
+/Users/thukhong/Projects/HTMT_02/HTMT_02/obj/Debug/net6.0/ref/HTMT_02.dll

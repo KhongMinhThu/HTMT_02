@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0BCB0C27-D162-41AE-B82D-F646F80D715F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HTMT_02/Xulyheso.cs">
+    <Files>
+      <File FileName="HTMT_02/Program.cs" />
+      <File FileName="HTMT_02/Xulyheso.cs" Line="55" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTMT_02" expanded="True">
+            <Node name="HTMT_02" expanded="True">
+              <Node name="Xulyheso.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HTMT__02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
